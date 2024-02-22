@@ -21,6 +21,7 @@ Please ⭐ This Repo If You Like It!
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
 Download Python here: [DOWNLOAD](https://www.python.org/downloads/)
+
 Run start.bat 
 
 (Python v3.9 or higher is recommended)
